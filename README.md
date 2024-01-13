@@ -1,2 +1,9 @@
-# HUST_AIGC_program
-AIGC project in year 2024, i.e. innovation training project
+# AIGC project
+college student innovation and entrepreneurship project 
+## Team name   
+## Team member
++ Junzhe Yi
++ Wenzhen Long
++ Ziyu Chen
+## Learning resources
++ 
